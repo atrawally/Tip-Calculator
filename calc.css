@@ -1,0 +1,21 @@
+.card {
+	background-color: #ff9921;
+}
+
+h1 {
+	font-family: Georgia, Helvetica, serif;
+}
+
+.input-group-addon {
+	background-color: yellow;
+}
+
+body {
+	font-family: Georgia, Helvetica, serif;
+	background-image: url("orange2.jpg");
+	background-size: 100%;
+}
+
+#tipInput {
+	outline: none;
+}
